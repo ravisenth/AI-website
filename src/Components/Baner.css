@@ -1,0 +1,13 @@
+.baner_bg{
+    width: 100%;
+    background-image: url('https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-07/ai-marketing-examples.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    padding-top: 20%;
+    margin: 0;
+    color: white;
+}
