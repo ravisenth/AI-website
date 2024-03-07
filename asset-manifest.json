@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-website/static/css/main.2a7eec90.css",
+    "main.js": "/AI-website/static/js/main.429ab346.js",
+    "static/js/453.e94d72af.chunk.js": "/AI-website/static/js/453.e94d72af.chunk.js",
+    "index.html": "/AI-website/index.html",
+    "main.2a7eec90.css.map": "/AI-website/static/css/main.2a7eec90.css.map",
+    "main.429ab346.js.map": "/AI-website/static/js/main.429ab346.js.map",
+    "453.e94d72af.chunk.js.map": "/AI-website/static/js/453.e94d72af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a7eec90.css",
+    "static/js/main.429ab346.js"
+  ]
+}
