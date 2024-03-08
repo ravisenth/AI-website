@@ -3,16 +3,16 @@
         display: none;
     }
     .img{
-        width:50%;
-        margin-top: -7px;
-        margin-bottom: 5px;
+        width:200%;
+        margin-bottom: 0.5rem;
+        margin-left: 1rem;
     }
     .signup{
         display: none;
     }
     .hamburger{
         display: flex;
-        margin-top:10px;
+        margin-top:1.5rem;
         margin-left: 13rem;
     }
 }
@@ -23,7 +23,12 @@
         margin: 1rem;
     }
     .img{
-        width:30%;
+        margin-top: 0.3rem;
+        width:75%;
+    }
+    .navbar_menucontainer{
+        margin-left: 4rem;
+        display: flex;
     }
     .signup{
         display: flex;
@@ -40,14 +45,20 @@
         margin-top: 1rem;
         margin-bottom: 1rem;
         margin-right: 1rem;
-        margin-left: 4rem;
+        margin-left: 2rem;
     }
     .img{
-        width:30%;
+        margin-top: -5px;
+        width:75%;
     }
+    .navbar_menucontainer{
+        margin-left: 8rem;
+        display: flex;
+    }
+   
     .signup{
         display: flex;
-        margin-left: 2rem;
+        margin-left: 5rem;
     }
     .hamburger{
         display: none;
@@ -57,7 +68,7 @@
     width:100%;
     display: flex;
     flex-wrap: wrap;
-    background-color: black;
+    background-color: white;
 }
 .navbar_logo{
     width:20%;
@@ -67,30 +78,31 @@
     text-align: center;
     color: red;
 }
-.navbar_menus{
-    margin: 0;
-}
+
 .navbar_menu{
     padding:0.5rem;
     border-radius: 2%;
     transition: ease 0.8s;
 
 }
+.navbar_menus{
+    margin: 0;
+}
 .signup_menu{
     margin: 1rem;
     padding:0.5rem;
-    background-color: orange;
+    background-color: #FF00FF;
     color:white;
     transition: ease 0.8s;
 }
 .signup_menu:hover{
-    background-color: orangered;
+    background-color: #1E90FF;
 }
 a{
     text-decoration: none;
     cursor: pointer;
-    color: white;
+    color: black;
 }
 .navbar_menu:hover{
-    background-color: orangered;
+    background-color: #1E90FF;
 }
